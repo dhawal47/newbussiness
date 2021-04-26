@@ -1,0 +1,143 @@
+
+body {
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+
+}
+img {
+    border-image: round;
+    border-image: 20px;
+ height: 30%;
+}
+ p:hover {
+    color:lightgoldenrodyellow  ;
+}
+h3{
+    color: white;
+    padding: 5px;
+    background-color:teal;
+}
+a:visited{
+    color: violet;
+    text-decoration:none;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:whitesmoke;
+    font-style: inherit ;
+}
+h1 {
+    font-family: cursive
+    color: palevioletred;
+    
+    
+}
+.header{
+    font-style: oblique;
+    font-family: garamond;
+    color: crimson;
+    font-variant: initial;
+    text-decoration: wavy;
+    text-align: center;
+    font-size: 200%;
+    position: relative;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color:lightcoral;
+}
+p{
+    font-family: cursive;
+    font-style: initial;
+    color:whitesmoke;
+}
+ul{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+ol{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+td{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+form{
+    font-family: cursive;
+    font-style: initial;
+    color:darkslategrey;
+}
+header{
+    background-image: url("https://miro.medium.com/max/3184/0*9MyBuwXV4d2IKIkm");
+    background-size: cover;
+    height: 0%;
+    text-align: center;
+    color: white;
+    padding: 8%;
+    position: relative;
+
+    
+}
+.dsy p {
+    display: inline-block;
+    font-family:'customfont','Segoe UI', Tahoma, Geneva, Verdana,;
+    color: cornsilk;
+    padding: 0px 170px;
+    font-size: 20px;
+    text-decoration: solid;
+    font-size: 15px;
+   
+}
+.dsy{
+    background-color: darkslateblue;
+    position: fixed;
+    padding: 0px;
+    margin: 0;
+    top: 0px;
+    width: 100%;
+    height: 40px;
+
+}
+.form1{
+    font-family: cursive;
+    color: azure;
+}
+.contact-table td{
+    font-family: cursive;
+    color: azure;
+}
+.img1{
+    height: 300px;
+    width: 300px;
+}
+.img2{
+    height: 300px;
+    width: 600px;
+}
+.img3{
+    height: 300px;
+    width: 300px;
+}
+.img4{
+    height: 300px;
+    width: 600px;
+}
+.img5{
+    height: 300px;
+    width: 300px;
+}
